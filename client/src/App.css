@@ -1,0 +1,43 @@
+.page-title {
+    display: block !important;
+    text-align: center;
+    font-size: 2rem;
+    margin: 2rem 0;
+}
+
+.post-button {
+    margin-right: 1rem !important;
+}
+
+.form-container {
+    width: 40%;
+    margin: auto;
+}
+
+.menu-header {
+    font-size: 2rem;
+    font-weight: bolder;
+    margin-top: 5px !important;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(123, 123, 126) !important;
+    cursor: default;
+}
+
+.logout-color {
+    color: red !important;
+    font-weight: 500 !important;
+}
+
+.ui.teal.button:focus, .ui.teal.buttons, .button:focus {
+    background: #00b5ad
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    margin-right: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background: gray;
+}
